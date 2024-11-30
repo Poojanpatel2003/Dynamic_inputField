@@ -36,8 +36,8 @@
   * npm for package management
 Steps to Install and Run
 1. Clone the Repository:
-    git clone https://github.com/Poojanpatel2003/Dynamic_inputField.git
-    cd {folder Name}
+   * git clone https://github.com/Poojanpatel2003/Dynamic_inputField.git
+   * cd {folder Name}
 
 2. Install Dependencies:
     npm or bun install
