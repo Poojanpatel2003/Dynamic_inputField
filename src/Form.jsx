@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { FaSave, FaTrash } from "react-icons/fa";
-import { AiOutlineCheckCircle, AiOutlineCloseCircle } from "react-icons/ai"; // Success and error icons
+import { AiOutlineCheckCircle, AiOutlineCloseCircle } from "react-icons/ai"; 
 import "./Form.css";
 
 export const Form=()=> {
